@@ -2,6 +2,6 @@ CHOICES
 
 First Choice: 1 (Stick with PB&J)
 Second Choice: 1 (Get to work helping)
-Third Choice: ____
+Third Choice: 3 (Approach Danny)
 Fourth Choice: ____
 Fifth Choice: ____
