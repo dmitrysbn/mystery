@@ -10,3 +10,4 @@ Choice 7: 1 (Listen to Billy)
 Choice 8: Approach Helga and the Doctor
 Choice 9: Talk to Helga and the Doctor
 Choice 10: Approach Billy
+Choice 11: Talk to Billy
