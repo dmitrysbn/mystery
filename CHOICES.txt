@@ -4,4 +4,4 @@ First Choice: 1 (Stick with PB&J)
 Second Choice: 1 (Get to work helping)
 Third Choice: 3 (Approach Danny)
 Fourth Choice: 2 (Approach Helga and the Doctor)
-Fifth Choice: ____
+Fifth Choice: 1 (Listen in on Helga and Doctor)
