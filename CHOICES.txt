@@ -11,3 +11,4 @@ Choice 8: Approach Helga and the Doctor
 Choice 9: Talk to Helga and the Doctor
 Choice 10: Approach Billy
 Choice 11: Talk to Billy
+Choice 12: Talk to Danny
