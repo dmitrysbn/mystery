@@ -7,3 +7,4 @@ Fourth Choice: 2 (Approach Helga and the Doctor)
 Fifth Choice: 1 (Listen in on Helga and Doctor)
 Sixth Choice: 3 (Approach Billy)
 Choice 7: 1 (Listen to Billy)
+Choice 8: Approach Helga and the Doctor
