@@ -15,3 +15,4 @@ Choice 12: Talk to Danny
 
 Choice 13: Accuse Helga
 Choice 14: Accuse Billy
+Choice 15: Accuse Danny
